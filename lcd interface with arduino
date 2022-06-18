@@ -12,5 +12,5 @@ void loop()
   lcd.setCursor(0,0);
   lcd.print("HEY FOLKS"); 
   lcd.setCursor(2,1);           
-  lcd.print("WHAT'S UP??");
+  lcd.print("WHAT'S UP???");
 }
